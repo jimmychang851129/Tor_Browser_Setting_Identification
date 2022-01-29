@@ -1,0 +1,8 @@
+tbselenium==0.4.2
+xvfbwrapper==0.2.9
+pathlib==1.0.1
+PyVirtualDisplay==0.2.5
+stem==1.8.0
+dpkt==1.9.2
+numpy==1.16.2
+psutil==5.7.0
