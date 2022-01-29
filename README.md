@@ -2,10 +2,10 @@
 
 ## Objective
 
-- Implement a crawler that can collect the website traffic with different browser settings
+- A crawler implementation that can collect the website traffic with different browser settings
 - A naive browser classifier implementation to predict the Tor browser version and security setting given network traffic
 - Code for feature extraction given the raw network pcap file
-- Verify that Tor browser settings have notable impact on network traffic patterns
+- Verification regarding Tor browser settings' impacts on network traffic patterns
 
 ## Dataset
 
